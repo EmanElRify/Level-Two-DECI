@@ -14,6 +14,7 @@ screen = turtle.Screen()  #هنا عرفنا الشاشة بتاعتنا
 width = screen.window_width()             #عرض الشاشة المصغرة
 height = screen.window_height()           #طول الشاشة المصغرة
 n = 50  #stars number عدد النجوم اللي هنرسمها
+star.fillcolor("white")
 
 for _ in range(n):   #بنعمل حلقة نحدد في كل لفة موقع عشوائي في الاسكرين وهنرسم في الموقع دا نجمة
     
@@ -33,9 +34,11 @@ for _ in range(n):   #بنعمل حلقة نحدد في كل لفة موقع ع�
     star.pendown()
 
     # Draw the star
+    star.begin_fill()
     for i in range(5):
         star.forward(size)
         star.right(144)
+    star.end_fill()
 
 
 home.color("black")
