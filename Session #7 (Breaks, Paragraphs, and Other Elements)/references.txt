@@ -1,5 +1,8 @@
-Circle 
-https://udacity-community.circle.so/join?invitation_token=48640c44b27f9ec1a4d77332ecdd3b7e0f1eece6-51375654-0814-4d58-b940-fdc335eb1533
+Web Page for session resources (You can apply modifications on the source code)
+https://emanelrify.github.io/session_resources.github.io/
+
+Source code
+https://github.com/EmanElRify/session_resources.github.io/blob/main/index.html
 
 The code we practice and exercises
 https://github.com/EmanElRify/Level-Two-DECI
@@ -14,10 +17,13 @@ All activities
 https://drive.google.com/drive/folders/1CrLoUALeq9Tn9Rxq9TmCMBi0eMR6sPZO?usp=drive_link
 
 Activity 6 solution
-https://github.com/EmanElRify/Level-Two-DECI/blob/main/Session%20%235%20(Strings%20and%20Lists)/activity%205%20solution.py
+https://github.com/EmanElRify/Level-Two-DECI/blob/main/Session%20%236%20(Intro%20to%20Web%20and%20HTML)/Activity%20Solution/index.html
 
 Satisfaction Survey
 https://docs.google.com/forms/d/e/1FAIpQLSfBSf8FkVyxNvFds1e2Nc1P3VQqxU32Ats0MX1KgTyDM9eb3Q/viewform
 
 Quiz (Python recap 10 MCQ Questions)
-https://quizizz.com/join?gc=167696
+
+Assignment
+
+Live Quiz
