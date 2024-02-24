@@ -4,6 +4,9 @@ https://emanelrify.github.io/session_resources.github.io/
 Source code
 https://github.com/EmanElRify/session_resources.github.io/blob/main/index.html
 
+Frontend developer roadmap
+https://roadmap.sh/frontend
+
 The code we practice and exercises
 https://github.com/EmanElRify/Level-Two-DECI
 
