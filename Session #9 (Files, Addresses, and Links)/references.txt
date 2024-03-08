@@ -25,4 +25,5 @@ https://validator.nu/
 Flex container Youtube Tutorial [Arabic]
 https://www.youtube.com/watch?v=JkCLL1CzNZk&list=PLxeyD6H4z4X7Q_LEPGFk47lOa__upNXWD
 
-
+DOM tree
+https://javascript.info/dom-nodes
