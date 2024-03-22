@@ -59,7 +59,7 @@ with zipfile.ZipFile("filepath", "mode") as zip_object:
 #### Important Documentation and resources:
 | <img src="./images_and_icons/pandas.png" width = 70 > | <img src="./images_and_icons/zipfiles.png" width = 70 > |
 | ----------- | ----------- |
-| [Data Analysis with Pandas]('https://www.w3schools.com/python/pandas/pandas_analyzing.asp) | [ZipFile Object](https://docs.python.org/3/library/zipfile.html#zipfile-objects) |
+| [Data Analysis with Pandas]('https://www.w3schools.com/python/pandas/pandas_analyzing.asp') | [ZipFile Object](https://docs.python.org/3/library/zipfile.html#zipfile-objects) |
 | [Cleaning Empty Cells](https://www.w3schools.com/python/pandas/pandas_cleaning_empty_cells.asp) | [unzip compressed files](https://docs.python.org/3/library/zipfile.html#zipfile-objects:~:text=ZipFile.extract(member%2C%20path%3DNone%2C%20pwd%3DNone)%C2%B6') |
 |[Cleaning Duplicates](https://www.w3schools.com/python/pandas/pandas_cleaning_duplicates.asp)|-|
 
