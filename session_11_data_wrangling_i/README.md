@@ -85,7 +85,8 @@ with zipfile.ZipFile("filepath", "mode") as zip_object:
     df.drop_duplicates(inplace=True)
     ```
     or 
-        ```python
+    
+    ```python
     df = df.drop_duplicates()
     ```
 - Consistency
