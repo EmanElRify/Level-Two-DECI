@@ -21,8 +21,8 @@ Have you ever wondered how AI is transforming the way we live and work? Share yo
 - Deploy
 
 #### Machine Learning Techniques
-- Supervised Learning ![]()
-- Unsupervised Learning 
-- Reinforcement Learning
-- Deep Learning
+- Supervised Learning ![Supervised Learning](supervised_learning.png)
+- Unsupervised Learning ![Unsupervised Learning](unsupervised_learning.png)
+- Reinforcement Learning [![Reinforcement Learning](https://img.youtube.com/vi/video-id/0.jpg)](Media1.mp4)
+- Deep Learning ![Deep Learning](deep_learning.png)
 
