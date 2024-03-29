@@ -24,5 +24,6 @@ Have you ever wondered how AI is transforming the way we live and work? Share yo
 - Supervised Learning ![Supervised Learning](supervised_learning.png)
 - Unsupervised Learning ![Unsupervised Learning](unsupervised_learning.png)
 - Reinforcement Learning ![Reinforcement Learning](rl.png)
+  
 - Deep Learning ![Deep Learning](deep_learning.png)
 
