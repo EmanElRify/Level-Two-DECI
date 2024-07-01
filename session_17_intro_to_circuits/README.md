@@ -8,9 +8,7 @@ A circuit is simply a path that allows electrons to flow through it.
 - If some electrons are removed from the atoms of a body, that body becomes positively charged because it will have lost some negative electricity. 
 - Conversely, a body which gains electrons becomes negatively charged (if you comb your hair the comb will gain some electrons and your hair will lose some). 
 - Positively charged bodies attract negatively charged bodies and repel other positively charged bodies (which is why the comb can make your hair stand on end!). 
-reference:
-https://doi.org/10.1016/B978-034063198-0/50004-6.
-(https://www.sciencedirect.com/science/article/pii/B9780340631980500046)
+
 
 
 
@@ -27,3 +25,6 @@ https://doi.org/10.1016/B978-034063198-0/50004-6.
 - [Everycircuit](https://everycircuit.com/app)
 
 
+#### reference:
+https://doi.org/10.1016/B978-034063198-0/50004-6.
+(https://www.sciencedirect.com/science/article/pii/B9780340631980500046)
