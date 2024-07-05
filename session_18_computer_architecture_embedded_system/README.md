@@ -124,7 +124,17 @@ lscpu```
 > perform the calculation
 
 
-### Embedded System 
+## Embedded System 
+### What is embedded system? An embedded system is a computer system that is designed for **a specific task**, as opposed to a general-purpose computer system, which is designed to perform any task.
+### Advantages of Embedded Systems:
+- Cost : more economical
+- Resource Constraints (fewer resources)
+- Performance (fast)
+### Disadvantages of Embedded Systems:
+- Specialization : Hardware engineers must work together with software engineers to design and program a new embedded system
+- Constraints : not flexible enough to handle new challenges. Because designers constrained embedded systems to the minimum cost, size, and resources necessary to handle a specific task, when a new challenge arises, the existing embedded system is often insufficient for the new task.
+
+
 #### Connecting LEDS
 you'll connect an LED light to a simulated Raspberry Pi embedded system.
 
@@ -134,4 +144,21 @@ you'll connect an LED light to a simulated Raspberry Pi embedded system.
 4. Connect the LED negative lead to a ground pin of the Raspberry Pi. (Negative leads are shorter than positive leads.) (Ground pins are prefixed with “GND”.)
 5. Connect the LED positive lead to a general purpose input-output (GPIO) pin of the Raspberry pi. (Positive leads are longer.) (GPIO pins are prefixed with “GP”.)
 6. Positive wires are typically covered with red coating, so color the positive wire red.
+
+### Using Python to program RasberryBi:
+#### Libraries to import
+- `from machine import Pin` : This allows us to declare and initialize Raspberry Pi Pico pins as objects in our code.
+- `from utime import sleep` : This allows us to pause the system in its current state for a specified period of time
+
+#### utilizing pin 2 as output : 
+```python
+from machine import Pin
+my_pin = Pin(2, Pin.OUT)
+```
+#### Pause the system in its current state for a specified period of time
+```python
+from utime import sleep
+sleep(0.5)  #don't do anything for 0.5 second
+```
+
 
