@@ -23,8 +23,7 @@ wmic cpu get```
 	- To get information about the cpu : run ```bash 
 lscpu```
 	- To get information about the number of cores (physical and virtual cores , if hyper-threading is enabled):<br>
- ```bash
-nproc --all```
+ `nproc --all`
 	
 
 #### Memory and Storage
