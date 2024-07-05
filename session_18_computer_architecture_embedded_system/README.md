@@ -136,6 +136,8 @@ lscpu```
 
 
 #### Connecting LEDS
+![LED connected to a Raspberry Pi Pico](LED_RASPBERRYBI.jpeg)
+
 you'll connect an LED light to a simulated Raspberry Pi embedded system.
 
 1. Visit https://wokwi.com/projects/new/micropython-pi-pico(opens in a new tab)
