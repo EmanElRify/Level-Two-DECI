@@ -33,12 +33,12 @@ print(f"The randomly selected item is: {random_item}")
 	python unittest_adventure_game_deci-lvl2_v2.py adventure_game.py pycodestyle
 	```
 ### To format your code automatically(VS code):
-#### 1- install "autopep8" extension
-#### 2- From setting search for "default formatter"
+<h4><mark> 1- install "autopep8" extension </mark></h4>
+<h4><mark> 2- From setting search for "default formatter"</mark></h4>
 ![setting in VS code](format_step_1.png)
-#### 3- Choose autopep8
+<h4><mark> 3- Choose autopep8</mark></h4>
 ![autopep8](autopep8.png)
-#### 4- In the code file right click and choose "Format Document" or **Press ALT + Shift + F**
+<h4><mark> 4- In the code file right click and choose "Format Document" or **Press ALT + Shift + F** </mark></h4>
 ![format](format.png)
 
 ## <a href = "https://www.geeksforgeeks.org/how-to-get-weighted-random-choice-in-python/">How to get weighted random choice</a>
