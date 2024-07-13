@@ -35,7 +35,7 @@ print(f"The randomly selected item is: {random_item}")
 ### To format your code automatically(VS code):
 <h4><mark> 1- install "autopep8" extension </mark></h4>
 <h4><mark> 2- From setting search for "default formatter"</mark></h4>
-![setting in VS code](format_step_1.png)
+ <img src = "format_step_1.png" alt = "setting in VS code">
 <h4><mark> 3- Choose autopep8</mark></h4>
 ![autopep8](autopep8.png)
 <h4><mark> 4- In the code file right click and choose "Format Document" or **Press ALT + Shift + F** </mark></h4>
