@@ -41,3 +41,8 @@ python unittest_adventure_game_deci-lvl2_v2.py adventure_game.py pycodestyle
 4- In the code file right click and choose "Format Document" or **Press ALT + Shift + F**
 ![format](format.png)
 
+### <a href = "https://www.geeksforgeeks.org/how-to-get-weighted-random-choice-in-python/">How to get weighted random choice</a>
+
+
+
+
